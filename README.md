@@ -51,9 +51,14 @@ Header:
 Accept-Language: en_US
 ```
 
+### Join the Slack Channel
+
+https://appatnightslack.herokuapp.com
+
 ### Tools & Links
 - https://ngrok.com Secure tunnels to localhost
 - https://developer.facebook.com
 - https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide
 - https://dev.kik.com/#/home
+- https://github.com/howdyai/botkit/blob/master/readme.md#installation
 
