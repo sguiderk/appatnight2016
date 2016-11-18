@@ -29,6 +29,11 @@ request({
   });
 ```
 
+
+##### Show job on career website
+
+https://www2.sixt.jobs/de/en/jobs/3784
+
 ### Challenge B
 Use our rental API to build a cutting-edge way, to find offers during a conversion with a bot.
 
@@ -50,6 +55,10 @@ GET https://app.sixt.de/php/mobilews/v4/offerlist?pickupStation=11&returnStation
 Header:
 Accept-Language: en_US
 ```
+
+##### Show offer on website
+
+https://www.sixt.de/php/reservation/directoffer?ctyp=P&grp=CPMR&uci=11&rci=11&uda=20161205&rda=20161207&uti=1200&rti=1200&t=11
 
 ### Join the Slack Channel
 
